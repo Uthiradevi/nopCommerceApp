@@ -1,0 +1,40 @@
+2025-08-06 16:02:11,456 INFO Test homepagetitle -- This is my log statement
+2025-08-06 16:02:12,041 INFO Verified Homepage Title--- This is my log statement
+2025-08-06 16:02:15,402 INFO Test login page---- This is my log statement
+2025-08-06 16:06:30,773 INFO Test login page---- This is my log statement
+2025-08-06 16:06:30,786 INFO Test homepagetitle -- This is my log statement
+2025-08-06 16:06:31,593 INFO Verified Homepage Title--- This is my log statement
+2025-08-06 16:09:34,430 INFO Test homepagetitle -- This is my log statement
+2025-08-06 16:09:35,387 INFO Verified Homepage Title--- This is my log statement
+2025-08-06 16:10:36,561 INFO Test login page---- This is my log statement
+2025-08-06 16:10:36,561 INFO Test homepagetitle -- This is my log statement
+2025-08-06 16:10:37,104 INFO Verified Homepage Title--- This is my log statement
+2025-08-06 16:17:27,761 INFO Test homepagetitle -- This is my log statement
+2025-08-06 16:17:28,350 INFO Verified Homepage Title--- This is my log statement
+2025-08-06 16:21:38,827 INFO Test login page---- This is my log statement
+2025-08-06 16:21:38,827 INFO Test homepagetitle -- This is my log statement
+2025-08-06 16:21:39,925 INFO Verified Homepage Title--- This is my log statement
+2025-08-06 16:23:02,623 INFO Test homepagetitle -- This is my log statement
+2025-08-06 16:23:02,624 INFO Test login page---- This is my log statement
+2025-08-06 16:23:03,153 INFO Verified Homepage Title--- This is my log statement
+2025-08-07 07:07:37,408 INFO Test login page with DDT---- This is my log statement
+2025-08-07 07:09:28,967 INFO Test login page with DDT---- This is my log statement
+2025-08-07 07:09:31,373 INFO Login test failed for username: admin@yourstore.com
+2025-08-07 07:09:31,374 INFO Login test failed for some users
+2025-08-07 07:11:13,845 INFO Test homepagetitle -- This is my log statement
+2025-08-07 07:11:14,597 INFO Verified Homepage Title--- This is my log statement
+2025-08-07 07:11:17,895 INFO Test login page---- This is my log statement
+2025-08-07 07:12:35,760 INFO Test login page with DDT---- This is my log statement
+2025-08-07 07:12:38,105 INFO Login test passed for username: admin@yourstore.com
+2025-08-07 07:19:35,043 INFO Test login page with DDT---- This is my log statement
+2025-08-07 07:19:39,154 INFO Login test passed for username: admin@yourstore.com
+2025-08-07 07:20:42,820 INFO Test login page with DDT---- This is my log statement
+2025-08-07 07:20:45,157 INFO Login test passed for username: admin@yourstore.com
+2025-08-07 07:20:45,157 INFO Login test passed for all users
+2025-08-07 07:28:38,414 INFO Test login page with DDT---- This is my log statement
+2025-08-07 07:28:44,654 INFO Login test passed for username: admin@yourstore.com
+2025-08-07 07:28:44,654 INFO Login test passed for all users
+2025-08-08 06:38:18,877 INFO Test homepagetitle -- This is my log statement
+2025-08-08 06:38:19,509 INFO Verified Homepage Title--- This is my log statement
+2025-08-08 06:59:40,579 INFO Test homepagetitle -- This is my log statement
+2025-08-08 06:59:41,237 INFO Verified Homepage Title--- This is my log statement
